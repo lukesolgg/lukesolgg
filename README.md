@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Gaian Marketplace](not ready to publish)
 
-- 🌱 I’m currently learning **React Native & Rust**
+- 🌱 I’m currently learning **Angular & Rust**
 
 - 💬 Ask me about **React, Typescript, Tailwind, Rust**
 
