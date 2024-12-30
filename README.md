@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
-<h3 align="center">A passionate full stack developer currently learning Rust & working on Solana Projects</h3>
+<h3 align="center">A passionate full stack developer currently learning Rust (learning redux on the side) & working on Solana Projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukesolgg&label=Profile%20views&color=0e75b6&style=flat" alt="lukesolgg" /> </p>
 
 <p align="left"> <a href="https://github.com/lukesolgg/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukesolgg" alt="lukesolgg" /></a> </p>
 
-- 🔭 I’m currently working on [Gaian Marketplace](not ready to publish)
+- 🔭 I’m currently working on [LDK Autocare Website](not ready to publish)
 
-- 🌱 I’m currently learning **Angular & Rust**
+- 🌱 I’m currently learning **Redux & Rust**
 
-- 💬 Ask me about **React, Typescript, Tailwind, Rust**
+- 💬 Ask me about **React, Typescript, Tailwind, Redux, Rust**
 
 - 📫 How to reach me **lukeknightofficial@gmail.com**
 
