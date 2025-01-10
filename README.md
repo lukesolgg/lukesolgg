@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/lukesolgg/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukesolgg" alt="lukesolgg" /></a> </p>
 
-- 🔭 I’m currently working on [LDK Autocare Website](not ready to publish)
+- 🔭 I’m currently working on [Solana Wallet UI - Swap / Purchase SOL / Invite Friends](not ready to publish)
+
+- 🔭 My most recent web app: [LDK Autocare Website] https://ldk-autocare-web.vercel.app/
 
 - 🌱 I’m currently learning **Redux & Rust**
 
