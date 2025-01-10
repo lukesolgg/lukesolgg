@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
-<h3 align="center">A passionate full stack developer currently learning Rust (learning redux on the side) & working on Solana Projects</h3>
+<h3 align="center">A passionate full stack developer currently learning Rust (working on typescript on the side) & working on Solana Projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukesolgg&label=Profile%20views&color=0e75b6&style=flat" alt="lukesolgg" /> </p>
 
